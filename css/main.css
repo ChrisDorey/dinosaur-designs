@@ -20,9 +20,10 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: .8 rem;
+  font-size: .7 rem;
   font-style: italic;
   text-align: center;
+  font-weight: bold;
 }
 
 nav {
